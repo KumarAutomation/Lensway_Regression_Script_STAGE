@@ -1,0 +1,63 @@
+2018-01-31 17:09:06 INFO  HomePage:92 - Mousehovered to login button = [[ChromeDriver: chrome on XP (2f18815ff0765750f3d7f68b58a0907e)] -> xpath: //span[text()='Logga in']]
+2018-01-31 17:09:06 INFO  HomePage:94 - Clicked register button = [[ChromeDriver: chrome on XP (2f18815ff0765750f3d7f68b58a0907e)] -> xpath: //div[@class='wrapper-my-pages__create-account-link desktop']/a]
+2018-01-31 17:09:06 INFO  TestBase:14 - ######################################################### Starting test to verify login details #####################################################
+2018-01-31 17:09:06 INFO  TestBase:69 - Creating object of chrome
+2018-01-31 17:09:09 INFO  TestBase:96 - Navigating to https://stage-lw-se.lenslogistics.com/
+2018-01-31 17:09:11 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (a7a76dbebc3dd9bbaad57f396d3a4169)] -> xpath: //span[text()='Logga in']]
+2018-01-31 17:09:11 INFO  HomePage:82 - Entered the username = [[ChromeDriver: chrome on XP (a7a76dbebc3dd9bbaad57f396d3a4169)] -> xpath: //input[@name='j_username']]
+2018-01-31 17:09:11 INFO  HomePage:84 - Entered the password = [[ChromeDriver: chrome on XP (a7a76dbebc3dd9bbaad57f396d3a4169)] -> xpath: //input[@name='j_password']]
+2018-01-31 17:09:11 INFO  HomePage:86 - Clicked login button = [[ChromeDriver: chrome on XP (a7a76dbebc3dd9bbaad57f396d3a4169)] -> xpath: //input[@value='Logga in']]
+2018-01-31 17:09:11 INFO  TestBase:21 - ######################################################### Finished test to verify login details #####################################################
+2018-01-31 17:09:12 INFO  TestBase:12 - ############################################################## Starting test to LensValidation ######################################################
+2018-01-31 17:09:12 INFO  TestBase:69 - Creating object of chrome
+2018-01-31 17:09:15 INFO  TestBase:96 - Navigating to https://stage-lw-se.lenslogistics.com/
+2018-01-31 17:09:16 INFO  LensPage:59 - Mousehovered to Lens product = [[ChromeDriver: chrome on XP (ea2b6971eefd12f56344af0a1e1d4dd9)] -> xpath: //*[@data-megamenu='js-lenses']/a]
+2018-01-31 17:09:41 INFO  LensPage:65 - Selected the required lens = [[ChromeDriver: chrome on XP (ea2b6971eefd12f56344af0a1e1d4dd9)] -> link text: 1-Day Acuvue]
+2018-01-31 17:09:41 INFO  LensPage:70 - Selected 30pack = [[ChromeDriver: chrome on XP (ea2b6971eefd12f56344af0a1e1d4dd9)] -> xpath: .//*[@id='boxsize_107']]
+2018-01-31 17:09:41 INFO  LensPage:75 - Unselected left eye checkbox = [[ChromeDriver: chrome on XP (ea2b6971eefd12f56344af0a1e1d4dd9)] -> xpath: .//*[@id='left_eye_checkbox']]
+2018-01-31 17:09:41 INFO  LensPage:81 - Selected dropdown1 = org.openqa.selenium.support.ui.Select@928763c
+2018-01-31 17:09:41 INFO  LensPage:85 - Selected dropdown2 = org.openqa.selenium.support.ui.Select@a1f72f5
+2018-01-31 17:11:26 INFO  HomePage:92 - Mousehovered to login button = [[ChromeDriver: chrome on XP (8ab25332dfee39626347fb7097729248)] -> xpath: //span[text()='Logga in']]
+2018-01-31 17:11:26 INFO  HomePage:94 - Clicked register button = [[ChromeDriver: chrome on XP (8ab25332dfee39626347fb7097729248)] -> xpath: //div[@class='wrapper-my-pages__create-account-link desktop']/a]
+2018-01-31 17:11:30 INFO  HomePage:104 - Entered email to register = [[[ChromeDriver: chrome on XP (8ab25332dfee39626347fb7097729248)] -> xpath: //input[@name='email']], [[ChromeDriver: chrome on XP (8ab25332dfee39626347fb7097729248)] -> xpath: //input[@name='email']]]
+2018-01-31 17:11:30 INFO  HomePage:106 - Rentered email to register = [[ChromeDriver: chrome on XP (8ab25332dfee39626347fb7097729248)] -> name: email-repeat]
+2018-01-31 17:11:30 INFO  HomePage:112 - Entered password to register = [[ChromeDriver: chrome on XP (8ab25332dfee39626347fb7097729248)] -> xpath: //input[@name='j_password']]
+2018-01-31 17:11:30 INFO  HomePage:115 - Checked agree to register = [[ChromeDriver: chrome on XP (8ab25332dfee39626347fb7097729248)] -> name: i_agree]
+2018-01-31 17:11:31 INFO  HomePage:117 - clicked the register button = [[ChromeDriver: chrome on XP (8ab25332dfee39626347fb7097729248)] -> xpath: //div[@class='wrapper-my-pages__create-account-link desktop']/a]
+2018-01-31 17:11:31 INFO  TestBase:24 - ############################################### Finished test to User registration details ##########################################################
+2018-01-31 17:11:51 INFO  TestBase:18 - ############################################# Starting test to verify User registration details ######################################################
+2018-01-31 17:11:52 INFO  HomePage:92 - Mousehovered to login button = [[ChromeDriver: chrome on XP (44777c3a7efb45a22baa5b44e4ee31fe)] -> xpath: //span[text()='Logga in']]
+2018-01-31 17:11:52 INFO  HomePage:94 - Clicked register button = [[ChromeDriver: chrome on XP (44777c3a7efb45a22baa5b44e4ee31fe)] -> xpath: //div[@class='wrapper-my-pages__create-account-link desktop']/a]
+2018-01-31 17:12:19 INFO  HomePage:92 - Mousehovered to login button = [[ChromeDriver: chrome on XP (c17ebdbf622923721381908c1853ad19)] -> xpath: //span[text()='Logga in']]
+2018-01-31 17:12:19 INFO  HomePage:94 - Clicked register button = [[ChromeDriver: chrome on XP (c17ebdbf622923721381908c1853ad19)] -> xpath: //div[@class='wrapper-my-pages__create-account-link desktop']/a]
+2018-01-31 17:12:22 INFO  HomePage:104 - Entered email to register = [[[ChromeDriver: chrome on XP (c17ebdbf622923721381908c1853ad19)] -> xpath: //input[@name='email']], [[ChromeDriver: chrome on XP (c17ebdbf622923721381908c1853ad19)] -> xpath: //input[@name='email']]]
+2018-01-31 17:12:22 INFO  HomePage:106 - Rentered email to register = [[ChromeDriver: chrome on XP (c17ebdbf622923721381908c1853ad19)] -> name: email-repeat]
+2018-01-31 17:12:22 INFO  HomePage:112 - Entered password to register = [[ChromeDriver: chrome on XP (c17ebdbf622923721381908c1853ad19)] -> xpath: //input[@name='j_password']]
+2018-01-31 17:12:22 INFO  HomePage:115 - Checked agree to register = [[ChromeDriver: chrome on XP (c17ebdbf622923721381908c1853ad19)] -> name: i_agree]
+2018-01-31 17:12:23 INFO  HomePage:117 - clicked the register button = [[ChromeDriver: chrome on XP (c17ebdbf622923721381908c1853ad19)] -> xpath: //div[@class='wrapper-my-pages__create-account-link desktop']/a]
+2018-01-31 17:12:23 INFO  TestBase:25 - ############################################### Finished test to User registration details ##########################################################
+2018-01-31 17:12:56 INFO  HomePage:92 - Mousehovered to login button = [[ChromeDriver: chrome on XP (1978b343a18a75d8ceb9fe38fb52b6a9)] -> xpath: //span[text()='Logga in']]
+2018-01-31 17:12:56 INFO  HomePage:94 - Clicked register button = [[ChromeDriver: chrome on XP (1978b343a18a75d8ceb9fe38fb52b6a9)] -> xpath: //div[@class='wrapper-my-pages__create-account-link desktop']/a]
+2018-01-31 17:13:03 INFO  HomePage:104 - Entered email to register = [[[ChromeDriver: chrome on XP (1978b343a18a75d8ceb9fe38fb52b6a9)] -> xpath: //input[@name='email']], [[ChromeDriver: chrome on XP (1978b343a18a75d8ceb9fe38fb52b6a9)] -> xpath: //input[@name='email']]]
+2018-01-31 17:13:03 INFO  HomePage:106 - Rentered email to register = [[ChromeDriver: chrome on XP (1978b343a18a75d8ceb9fe38fb52b6a9)] -> name: email-repeat]
+2018-01-31 17:13:03 INFO  HomePage:112 - Entered password to register = [[ChromeDriver: chrome on XP (1978b343a18a75d8ceb9fe38fb52b6a9)] -> xpath: //input[@name='j_password']]
+2018-01-31 17:13:03 INFO  HomePage:115 - Checked agree to register = [[ChromeDriver: chrome on XP (1978b343a18a75d8ceb9fe38fb52b6a9)] -> name: i_agree]
+2018-01-31 17:13:04 INFO  HomePage:117 - clicked the register button = [[ChromeDriver: chrome on XP (1978b343a18a75d8ceb9fe38fb52b6a9)] -> xpath: //div[@class='wrapper-my-pages__create-account-link desktop']/a]
+2018-01-31 17:13:04 INFO  TestBase:25 - ############################################### Finished test to User registration details ##########################################################
+2018-01-31 17:13:04 INFO  TestBase:14 - ######################################################### Starting test to verify login details #####################################################
+2018-01-31 17:13:04 INFO  TestBase:69 - Creating object of chrome
+2018-01-31 17:13:07 INFO  TestBase:96 - Navigating to https://stage-lw-se.lenslogistics.com/
+2018-01-31 17:13:09 INFO  HomePage:78 - Mousehovered to login button = [[ChromeDriver: chrome on XP (93c24f98a66a2ef6cbdd3280c7d0b44b)] -> xpath: //span[text()='Logga in']]
+2018-01-31 17:13:09 INFO  HomePage:82 - Entered the username = [[ChromeDriver: chrome on XP (93c24f98a66a2ef6cbdd3280c7d0b44b)] -> xpath: //input[@name='j_username']]
+2018-01-31 17:13:09 INFO  HomePage:84 - Entered the password = [[ChromeDriver: chrome on XP (93c24f98a66a2ef6cbdd3280c7d0b44b)] -> xpath: //input[@name='j_password']]
+2018-01-31 17:13:09 INFO  HomePage:86 - Clicked login button = [[ChromeDriver: chrome on XP (93c24f98a66a2ef6cbdd3280c7d0b44b)] -> xpath: //input[@value='Logga in']]
+2018-01-31 17:13:09 INFO  TestBase:20 - ######################################################### Finished test to verify login details #####################################################
+2018-01-31 17:13:09 INFO  TestBase:12 - ############################################################## Starting test to LensValidation ######################################################
+2018-01-31 17:13:09 INFO  TestBase:69 - Creating object of chrome
+2018-01-31 17:13:12 INFO  TestBase:96 - Navigating to https://stage-lw-se.lenslogistics.com/
+2018-01-31 17:13:14 INFO  LensPage:59 - Mousehovered to Lens product = [[ChromeDriver: chrome on XP (1bc8a168ef9802ca8c2ecc14e16616db)] -> xpath: //*[@data-megamenu='js-lenses']/a]
+2018-01-31 17:13:19 INFO  LensPage:65 - Selected the required lens = [[ChromeDriver: chrome on XP (1bc8a168ef9802ca8c2ecc14e16616db)] -> link text: 1-Day Acuvue]
+2018-01-31 17:13:19 INFO  LensPage:70 - Selected 30pack = [[ChromeDriver: chrome on XP (1bc8a168ef9802ca8c2ecc14e16616db)] -> xpath: .//*[@id='boxsize_107']]
+2018-01-31 17:13:19 INFO  LensPage:75 - Unselected left eye checkbox = [[ChromeDriver: chrome on XP (1bc8a168ef9802ca8c2ecc14e16616db)] -> xpath: .//*[@id='left_eye_checkbox']]
+2018-01-31 17:13:19 INFO  LensPage:81 - Selected dropdown1 = org.openqa.selenium.support.ui.Select@2ca923bb
+2018-01-31 17:13:19 INFO  LensPage:85 - Selected dropdown2 = org.openqa.selenium.support.ui.Select@51bf5add
